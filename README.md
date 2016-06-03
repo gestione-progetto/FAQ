@@ -14,7 +14,7 @@ Nowadays, why would a business or organization decide to outsource?
  > Moreover, the IT infrastructure could be critically important to my business.
 
 4. A project is a collaborative enterprise, involving research or design, that is carefully planned in order to achieve a particular goal.
-Let’s make some examples of big projects in the history. 
+Let’s describe one of big projects in the history. 
  > 1. Manhattan Project (nuclear weapons)
  > 2. Enigma Project (Alan Turing)
  > 3. Human Genome Project
